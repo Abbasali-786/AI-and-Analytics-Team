@@ -1,0 +1,10 @@
+{
+  "AutoDisbursement": "agent_6301k9bpfpyweabt7f42wyksr99b",
+  "BlockchainManager": "agent_blockchain_0987654321",
+  "DonationTracker": "agent_2901k9bpgc24fejvh7qrvdyqx3dp",
+  "ImpactReporter": "agent_impact_1234567890",
+  "MilestoneVerifier": "agent_9501k9bph0mafch8jr36kyvctvej",
+  "NeedsPredictor": "agent_3701k9bph8qzed2s1emf8972td67",
+  "NGO Researcher": "agent_3401k9bphwpve298hs5f3zrjqhmv",
+  "Orchestrator Agent": "agent_5801k9bpj5a2e13sc09bm3cervme"
+}

@@ -1,0 +1,48 @@
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background: #f9f9fb;
+  color: #333;
+}
+h1, h2 { text-align: center; }
+h1 { color: #0066ff; }
+input, button {
+  width: 100%;
+  padding: 0.6rem;
+  margin: 0.5rem 0;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+button {
+  background: #0066ff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+button:hover { background: #0052cc; }
+button:disabled { background: #999; }
+.card {
+  background: white;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.ngo-item {
+  padding: 0.8rem;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+}
+.ngo-item:hover, .selected {
+  background: #e3f2fd;
+}
+code {
+  background: #f0f0f0;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 0.9em;
+}

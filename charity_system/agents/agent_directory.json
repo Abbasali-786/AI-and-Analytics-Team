@@ -1,0 +1,11 @@
+{
+  "AutoDisbursement Agent": "agent_6301k9bpfpyweabt7f42wyksr99b",
+  "Blockchain Manager Agent": "agent_4201k9bp48x1eqa869ktftvhf7xv",
+  "DonationTracker Agent": "agent_2901k9bpgc24fejvh7qrvdyqx3dp",
+  "ImpactReporter Agent": "agent_2001k9bpgn78fyrbdnmg6z1pqarn",
+  "MilestoneVerifier Agent": "agent_9501k9bph0mafch8jr36kyvctvej",
+  "NeedsPredictor Agent": "agent_3701k9bph8qzed2s1emf8972td67",
+  "NGO Monitor Agent": "agent_9701k9bphhq5f6js8yfn5kynyr69",
+  "NGO Researcher Agent": "agent_3401k9bphwpve298hs5f3zrjqhmv",
+  "Orchestrator Agent": "agent_5801k9bpj5a2e13sc09bm3cervme"
+}
